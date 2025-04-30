@@ -2,11 +2,7 @@ Flask
 pandas
 joblib
 scikit-learn
-<<<<<<< HEAD
 numpy
 matplotlib
 gunicorn
-
-=======
 matplotlib
->>>>>>> bac6297bf9eeb534c754e3c01db7fb184ff1f8e8
