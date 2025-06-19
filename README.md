@@ -2,8 +2,7 @@
 
 An advanced machine learning web application that predicts retail sales using AI algorithms. Built with Flask, scikit-learn, and modern web technologies to provide accurate sales forecasting with interactive visualizations.
 
-![AI Sales Predictor](https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg?auto=compress&cs=tinysrgb&w=1200&h=400&fit=crop)
-
+![AI Sales Predictor](static/image.png)
 ## 🌟 Features
 
 ### 🎯 Core Functionality
@@ -189,18 +188,6 @@ The application loads a pre-trained model from `sales_prediction_model (2).pkl`.
 - **Format**: PNG with base64 encoding
 - **Colors**: Custom gradient color scheme
 
-## 📈 Performance
-
-### Response Times
-- **Prediction**: < 100ms average response time
-- **Visualization**: < 500ms chart generation
-- **Page Load**: < 2s initial load time
-
-### Scalability
-- **Concurrent Users**: Supports multiple simultaneous predictions
-- **Memory Usage**: Optimized model loading and caching
-- **CPU Usage**: Efficient numpy/pandas operations
-
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -215,24 +202,12 @@ The application loads a pre-trained model from `sales_prediction_model (2).pkl`.
 - Test new features thoroughly
 - Update documentation as needed
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
-- **Dataset**: Retail sales data for model training
+- **Dataset**: Big Mart Sales
 - **Libraries**: Open-source Python ecosystem
 - **Design**: Modern web design principles
 - **Icons**: Font Awesome icon library
-
-## 📞 Support
-
-For support, questions, or feature requests:
-- Create an issue in the repository
-- Contact the development team
-- Check the documentation for common solutions
-
 ---
 
 **Built with ❤️ using Python, Flask, and Machine Learning**
